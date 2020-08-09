@@ -1,0 +1,15 @@
+C:\Escritorio\Simplificador-0.2\Simplificador-0.2\bin\Release\Simplificador-0.2.exe.config
+C:\Escritorio\Simplificador-0.2\Simplificador-0.2\bin\Release\Simplificador-0.2.exe
+C:\Escritorio\Simplificador-0.2\Simplificador-0.2\bin\Release\Simplificador-0.2.pdb
+C:\Escritorio\Simplificador-0.2\Simplificador-0.2\obj\Release\Simplificador-0.2.csprojAssemblyReference.cache
+C:\Escritorio\Simplificador-0.2\Simplificador-0.2\obj\Release\MainWindow.g.cs
+C:\Escritorio\Simplificador-0.2\Simplificador-0.2\obj\Release\App.g.cs
+C:\Escritorio\Simplificador-0.2\Simplificador-0.2\obj\Release\Simplificador-0.2_MarkupCompile.cache
+C:\Escritorio\Simplificador-0.2\Simplificador-0.2\obj\Release\Simplificador-0.2_MarkupCompile.lref
+C:\Escritorio\Simplificador-0.2\Simplificador-0.2\obj\Release\MainWindow.baml
+C:\Escritorio\Simplificador-0.2\Simplificador-0.2\obj\Release\Simplificador-0.2.g.resources
+C:\Escritorio\Simplificador-0.2\Simplificador-0.2\obj\Release\Simplificador_0._2.Properties.Resources.resources
+C:\Escritorio\Simplificador-0.2\Simplificador-0.2\obj\Release\Simplificador-0.2.csproj.GenerateResource.cache
+C:\Escritorio\Simplificador-0.2\Simplificador-0.2\obj\Release\Simplificador-0.2.csproj.CoreCompileInputs.cache
+C:\Escritorio\Simplificador-0.2\Simplificador-0.2\obj\Release\Simplificador-0.2.exe
+C:\Escritorio\Simplificador-0.2\Simplificador-0.2\obj\Release\Simplificador-0.2.pdb

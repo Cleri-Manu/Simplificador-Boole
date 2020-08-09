@@ -1,0 +1,15 @@
+C:\Users\Cleri\Documents\GitHub\Simplificador-Boole\Simplificador-0.2\bin\Debug\Simplificador-0.2.exe.config
+C:\Users\Cleri\Documents\GitHub\Simplificador-Boole\Simplificador-0.2\bin\Debug\Simplificador-0.2.exe
+C:\Users\Cleri\Documents\GitHub\Simplificador-Boole\Simplificador-0.2\bin\Debug\Simplificador-0.2.pdb
+C:\Users\Cleri\Documents\GitHub\Simplificador-Boole\Simplificador-0.2\obj\Debug\MainWindow.g.cs
+C:\Users\Cleri\Documents\GitHub\Simplificador-Boole\Simplificador-0.2\obj\Debug\App.g.cs
+C:\Users\Cleri\Documents\GitHub\Simplificador-Boole\Simplificador-0.2\obj\Debug\Simplificador-0.2_MarkupCompile.cache
+C:\Users\Cleri\Documents\GitHub\Simplificador-Boole\Simplificador-0.2\obj\Debug\Simplificador-0.2_MarkupCompile.lref
+C:\Users\Cleri\Documents\GitHub\Simplificador-Boole\Simplificador-0.2\obj\Debug\MainWindow.baml
+C:\Users\Cleri\Documents\GitHub\Simplificador-Boole\Simplificador-0.2\obj\Debug\Simplificador-0.2.g.resources
+C:\Users\Cleri\Documents\GitHub\Simplificador-Boole\Simplificador-0.2\obj\Debug\Simplificador_0._2.Properties.Resources.resources
+C:\Users\Cleri\Documents\GitHub\Simplificador-Boole\Simplificador-0.2\obj\Debug\Simplificador-1.01.csproj.GenerateResource.cache
+C:\Users\Cleri\Documents\GitHub\Simplificador-Boole\Simplificador-0.2\obj\Debug\Simplificador-1.01.csproj.CoreCompileInputs.cache
+C:\Users\Cleri\Documents\GitHub\Simplificador-Boole\Simplificador-0.2\obj\Debug\Simplificador-0.2.exe
+C:\Users\Cleri\Documents\GitHub\Simplificador-Boole\Simplificador-0.2\obj\Debug\Simplificador-0.2.pdb
+C:\Users\Cleri\Documents\GitHub\Simplificador-Boole\Simplificador-0.2\obj\Debug\Simplificador-1.01.csprojAssemblyReference.cache
